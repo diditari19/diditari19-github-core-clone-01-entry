@@ -1,0 +1,14 @@
+{
+  "name": "diditari19-github-core-clone-01-entry",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "description": "A standalone GitHub-compatible forge, stage 1 repository scaffold",
+  "license": "MIT",
+  "engines": { "node": ">=22.18" },
+  "scripts": { "start": "node --experimental-strip-types main.ts" },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/diditari19/diditari19-github-core-clone-01-entry"
+  }
+}
